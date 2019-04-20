@@ -19,17 +19,10 @@
 - [free code camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/playlists)
 - [TernopilJS](https://www.youtube.com/channel/UC9ASiMVFF0o-oi68RqzzY-Q/playlists)
 
-# YT REACT
+# YT just REACT
 
 - [Свежий курс по основам React 2019 год](https://youtu.be/DLX62G4lc44)
 - [Інтро від ТернопільJS](https://www.youtube.com/watch?v=G9gL_RXk1us&feature=push-u-sub&attr_tag=facL_asLda0JZCO6%3A6)
-  -- for bootstrapping use create-react-app
-  for debugging use React Devtools
-  docs are available on reactjs.org
-  if you want to speed up finding docs skill use DevDocs
-  more examples – react.rocks
-  more react/react-native/webpack/postcss/ReactVR/babel libs – js.coach
-  more react libs – react.parts]
 
 # Books
 
